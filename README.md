@@ -19,4 +19,6 @@ Hi! I'm Prasuna Chandrika Gadapa, a recent BTech Graduate (CSE) passionate about
 * **Data Cleaning**: ETL workflows, handling nulls, and duplicate removal.
 
 ## Connect with me
-[Insert Your LinkedIn Profile Link Here]
+www.linkedin.com/in/gprasunac
+
+
