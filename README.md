@@ -4,7 +4,7 @@ Hi! I'm Prasuna Chandrika Gadapa, a recent BTech Graduate (CSE) passionate about
 
 ## Projects
 
-### 1. Sales & Profitability Performance Analysis
+### 1. Sales_Performance_Analysis_PowerQuery_Excel
 * **Objective**: Performed an end-to-end analysis to evaluate the financial health of the business, moving beyond simple sales volume to focus on profitability metrics.
 * **Tools Used**: Excel (Power Query, PivotTables, Conditional Formatting), Data Visualization.
 * **Key Insights**:
